@@ -16,18 +16,12 @@ Os Formulários de Avaliação são o 2° desafio do Stage 03 do programa Explor
     Agradecimentos infinitos a RocketSeat e ao Mestre <a href="https://github.com/maykbrito">Mayk Brito</a>.</p>
   </p>
 </div>
-   
    <div align="center">
       <img src="./formmentoria.png" alt="print do resultado do formulário de mentoria"/>
   </div>
-
-  <div align="center">
-   <img src="./formavaliacao.png" alt="print do resultado do formulário da avaliação">
-  </div>
+  </br>
   
-  </br>git 
-  
-## 🔗 Link da aplicação no ar: 
+## 🔗 Link da aplicação no ar: https://mentoria.netlify.app/
   
 ## :rocket: Tecnologias
 
